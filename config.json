@@ -1,0 +1,13 @@
+{
+  "services": [
+    {
+      "name": "notepad.exe",
+      "start_command": ["notepad.exe"]
+    },
+    {
+      "name": "calc.exe",
+      "start_command": ["calc.exe"]
+    }
+  ],
+  "silent": false
+}
